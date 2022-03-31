@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giang Vinh Dien <img height="40" src="https://emoji.gg/assets/emoji/java.png"></h1>
-<h3 align="center">A Junior from Ton Duc Thang University, Major: S</h3>
-
-- 🔭 I’m currently working on my **Python Course**
+<h3 align="center">A Junior from Ton Duc Thang University, Major: Software Engineering</h3>
 
 - 🌱 I’m currently learning **Java, HTML, CSS, JS**
 
