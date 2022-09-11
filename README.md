@@ -40,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/90970661/189519087-d748f606-6731-40cd-96f0-6a046fde82a3.png" alt="pc" width="40" height="40"/> 
+    <img src="https://www.pngegg.com/en/png-cqjey" alt="pc" width="40" height="40"/> 
   </a
 </p>
 
