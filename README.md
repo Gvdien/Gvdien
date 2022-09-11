@@ -41,7 +41,7 @@
   </a
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img src="https://e7.pngegg.com/pngimages/805/274/png-clipart-black-and-white-pc-logo-pycharm-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="pc" width="40" height="40"/> 
-  </a
+  </a>
 </p>
 
 <p align= "center">
