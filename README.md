@@ -39,8 +39,9 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a
-  <a href="https://www.je![image](https://user-images.githubusercontent.com/90970661/189519024-09bbdee7-7410-4476-b7fd-b4ca0f03f53e.png)" alt="pc" width="40" height="40"/> 
-  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/90970661/189519087-d748f606-6731-40cd-96f0-6a046fde82a3.png" alt="pc" width="40" height="40"/> 
+  </a
 </p>
 
 <p align= "center">
