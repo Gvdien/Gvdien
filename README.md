@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giang Vinh Dien <img height="40" src="https://emoji.gg/assets/emoji/java.png"></h1>
 <h3 align="center">A Junior from Ton Duc Thang University, Major: Software Engineering</h3>
 
-- 🌱 I’m currently learning **Java, HTML, CSS, JS**
+- 🌱 I’m currently learning **Python (Django), HTML, CSS, JS**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
