@@ -39,8 +39,7 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="![image](https://user-images.githubusercontent.com/90970661/189519001-b2a5f9cf-bc55-415c-b242-f507199e6c38.png)" alt="pc" width="40" height="40"/> 
+  <a href="https://www.je![image](https://user-images.githubusercontent.com/90970661/189519024-09bbdee7-7410-4476-b7fd-b4ca0f03f53e.png)" alt="pc" width="40" height="40"/> 
   </a>
 </p>
 
