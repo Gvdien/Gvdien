@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giang Vinh Dien <img height="40" src="https://user-images.githubusercontent.com/90970661/190056818-7b8f13b4-f0bf-48dc-b164-5a94d6af1702.png"></h1>
-<h3 align="center">A Junior from Ton Duc Thang University, Major: Software Engineering</h3>
+<h3 align="center">A Senior from Ton Duc Thang University, Major: Software Engineering</h3>
 
 - 🌱 I’m currently learning **Python (Django), HTML, CSS, JS**
 
